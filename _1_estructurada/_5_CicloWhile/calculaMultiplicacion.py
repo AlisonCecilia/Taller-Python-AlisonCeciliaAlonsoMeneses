@@ -6,7 +6,7 @@ if __name__ == '__main__':
     mut: int = 0
 
     while i < y:
-        mut= mut + x
+        mut= mut + x#multiplicacion por suma
         i = i + 1
 
     # f para incrustamiento
