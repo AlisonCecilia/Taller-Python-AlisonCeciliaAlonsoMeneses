@@ -1,0 +1,15 @@
+def ciclo(vueltas:int):
+    i:int=0
+    while(i<vueltas):
+        i+=1
+        yield i
+
+    # return i
+
+if __name__ == '__main__':
+
+    # valor=vueltas=(25)
+    # print(f"Vueltas: {valor}")
+
+    for valor in ciclo(50):
+        print(valor)
