@@ -1,0 +1,34 @@
+{
+  "usuarios": [
+    {
+      "Id": 1,
+      "Nombre": "Juan Pérez",
+      "Edad": 20,
+      "RFC": "JUAP850101XXX"
+    },
+    {
+      "Id": 2,
+      "Nombre": "María López",
+      "Edad": 17,
+      "RFC": "MALO960504XXX"
+    },
+    {
+      "Id": 3,
+      "Nombre": "Carlos García",
+      "Edad": 22,
+      "RFC": "CAGC750203XXX"
+    },
+    {
+      "Id": 4,
+      "Nombre": "Ana Martínez",
+      "Edad": 16,
+      "RFC": "ANAM910301XXX"
+    },
+    {
+      "Id": 5,
+      "Nombre": "Luis Hernández",
+      "Edad": 30,
+      "RFC": "LUHE680609XXX"
+    }
+  ]
+}
