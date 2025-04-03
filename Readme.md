@@ -59,8 +59,9 @@
 
 ### Calificaciones de los Retos
 
-Reto | Publicado | Entrega  | Título            | Calificación| Retroalimentación              |
----- |-----------|----------|-------------------|-------------|--------------------------------|
-  1  | 12/03/25  | 16/03/25 | Adivina el número |             |                                |
-  2  | 19/03/25  | 23/03/25 | Inventario        |             |                                |
-  3  | 26/03/25  | 31/03/25 | Gestión Biblioteca|             |                                |
+Reto | Publicado | Entrega  | Título            | Calificación| Retroalimentación                                  |
+---- |-----------|----------|-------------------|-------------|----------------------------------------------------|
+  1  | 12/03/25  | 16/03/25 | Adivina el número | 90          | No tienes main principal y aun no vemos excepciones|
+  2  | 19/03/25  | 23/03/25 | Inventario        | 100         | Buen trabajo                                       |
+  3  | 26/03/25  | 31/03/25 | Gestión Biblioteca| 70          | Aun no vemos clases en python                      |
+  4  | 02/04/25  | 02/04/25 | Edades Json       | 90          | No identifica menores de edad                      |
